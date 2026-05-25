@@ -1,0 +1,8 @@
+crm-backend/
+├── package.json
+├── server.js
+├── database.js
+├── data/               (will be created automatically – Railway volume mounts here)
+│   └── crm.db
+└── public/
+    └── index.html
